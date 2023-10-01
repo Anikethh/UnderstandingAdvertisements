@@ -1,0 +1,501 @@
+﻿Year,Name,Revenue,Rank,Twitter,Sector
+2021,Walmart,559151,1,"""[Walmart,WalmartInc,Walmarttech,walmartindia,WalmartCanada,WalmartAction]""",Retailing
+2021,Amazon,386064,2,"""[amazon,awscloud,AmazonKindle,amazonmusic,amazonIN,amazonnews,AmazonUK,alexa99,PrimeVideo,amazonluna,amazonappstore,AMZNGameStudios,AmazonMusicUK,amazonbooks,AmazonStudios,AmazonMusicIN,amazonwatch,amazonfresh,amazonpay,amazonfiretv,amazongames,amazonca,AmazonAssociate,AmazonFashion,primestudent,PrimeVideoIN,AmazonBusiness,AmazonScience,AmazonAustralia,AmazonAds,AmazonFireTVInd,AmazonNewsUK,KindleIndia,AmazonNewsEU,AmazonPhotos,AmazonNews_IN,AmazonFashionIN,AmazonAlexaIN]""",Retailing
+2021,Apple,274515,3,"""[Apple,AppleMusic,AppleTV,AppleTVPlus,AppleNews,ApplePodcasts,AppleEDU,iTunes,AppStore]""",Technology
+2021,CVS,268706,4,"""[cvspharmacy,CVSHealth,CVSinAction,CVSHealthIR,CVSPublicPolicy]""",Healthcare
+2021,UnitedHealth Group,257141,5,"""[UnitedHealthGrp]""",Healthcare
+2021,Berkshire Hathaway,245510,6,null,Finance
+2021,McKesson,231051,7,"""[McKesson]""",Healthcare
+2021,AmerisourceBergen,189893.9,8,"""[Healthcare_ABC]""",Healthcare
+2021,Alphabet,182527,9,"""[Google,googlemaps,GooglePlay,GoogleForEdu,googleanalytics,GoogleAI,googledrive,madebygoogle,GoogleTrends,googlenews,GoogleIndia,GoogleStadia,googlesearchc,Google_Comms,GoogleAds,AdSense,GoogleWorkspace,GooglePay,searchliaison,googledevs,googleUK,googlephotos,googlenest,GoogleARVR,GoogleStartups,googlearts,googlefi,googleearth,GVteam,googlefiber,googleeurope,googlebooks,Googleorg,talksatgoogle,googledocs,WearOSbyGoogle,GoogleNewsInit,GoogleDoodles,GooglePayIndia,GoogleATAP,GoogleDesign,googlecloud,googlecalendar,googlestudents,YouTube,GoogleInCA,ThinkwithGoogle,YouTubeMusic,googlefonts,inboxbygmail,lifeatgoogle,Waymo,GoogleHealth,EarthOutreach,googlechrome,googlenonprofit,CapitalG,gmail,googlepublic,GoogleCivics,googleaccess,GoogleCloud_IN,GoogleAdManager,GoogleCloudTech,gcloudpartners,googlereader]""",Technology
+2021,Exxon Mobil,181502,10,"""[exxonmobil,ExxonMobil_EU,ExxonMobil_UK,exxonmobil_ind,XOMFoundation,exxonmobil_aus,exxonmobil_my,ExxonMobil_PNG,exxonmobil_sg,exxonmobilbmt,XOM_Chemical,ExxonMobil_ID,ExxonMobil_GER,exxonmobil_th]""",Energy
+2021,AT&T,171760,11,"""[ATT,attcyber,ItsOnATT]""",Technology
+2021,Costco,166761,12,"""[Costco]""",Retailing
+2021,Cigna,160401,13,"""[Cigna]""",Healthcare
+2021,Cardinal Health,152922,14,"""[cardinalhealth]""",Healthcare
+2021,Microsoft,143015,15,"""[Microsoft,Windows,Azure,Office,surface,msonenote,msftsecurity,MicrosoftEdge,MSFSofficial,onedrive,MicrosoftUK,msdev,OneNoteEDU,MicrosoftEDU,MicrosoftIoT,MicrosoftDesign,Outlook,MSFTnews,MSFTResearch,microsoftcanada,OpenAtMicrosoft,bing,MicrosoftIndia,msexcel,MicrosoftStore,MSFTIssues,msPartner,MSFTMechanics,SharePoint,microsofttech,MSPowerAutomate,MicrosoftPress,SQLServer,HoloLens,MS_Ignite,msuspartner,MSFTMobility,Lumia,MicrosoftIPC,MicrosoftToDo,MSPowerApps,MicrosoftTeams,M12vc,MSN,Microsoft365,Skype,MSPowerBI,docsmsft,powerpoint,microsoftidc,msftClarity,mslearningcurve,MSCloud,AzureDevOps,SwiftKey,msft4startups,MSFTGameDev,MsftSecIntel,whymicrosoft,Microsoft_Gov,MSEdgeDev,VisualStudio,MSEurope,MSFTAdvertising,msdevUK,MSFTExchange,MicrosoftLearn,Microsoft_Green,MSPTNR_Innovate,MicrosoftASIA,MSEducationUK,MSFT_Business,MSMakeCode,MicrosoftLife,Health_IT,Xbox,MSFT365news,Microsoft_SG,mspartnersuk,MSFTBayArea,LearnTV,msdevindia]""",Technology
+2021,Walgreens,139537,16,"""[Walgreens,WalgreensNews,WBA_Global]""",Food
+2021,Kroger,132498,17,"""[kroger,KrogerNews,Kroger_Health]""",Food
+2021,Home Depot,132110,18,"""[HomeDepot,HomeDepotCanada,HomeDepotGR,HomeDepotFound,HomeDepotRetool]""",Retailing
+2021,J.P. Morgan,129503,19,"""[jpmorgan,JPMorganAM,Chase]""",Finance
+2021,Verizon,128292,20,"""[Verizon,verizonfios,VerizonBusiness,VerizonNews,vzpublicsector,VerizonVentures,VerizonConnect,VerizonPolicy,InsideVerizon,VerizonMediaN,VerizonGreen,VZBizMarkets]""",Technology
+2021,Ford Motor,127144,21,"""[Ford,FordTrucks,FordFoundation,FordPerformance,forduk,FordAustralia,FordIreland,thehenryford,FordIndia,fordfield,FordPhilippines,FordSouthAfrica,FordNigeria,FordKenya,FordFund,FordRSOC,FordMustang,FordCredit,FordPro]""",Transportation
+2021,General Motors,122485,22,"""[GM,MFG_GM,GMFleet,GMC,gmfinancial]""",Transportation
+2021,Anthem,121867,23,"""[AnthemInc,ThinkAnthem,AnthemFDN]""",Healthcare
+2021,Centene,111115,24,"""[Centene,CenteneCtrWUSTL]""",Healthcare
+2021,Fannie Mae,106437,25,"""[FannieMae,lifeatfanniemae]""",Finance
+2021,Comcast,103564,26,"""[comcast,comcastbusiness,ComcastVentures,ComcastNewsmkrs,ComcastMilitary,LIFT_Labs,ComcastPolicy,ComcastTechSoln,ComcastCA,ComcastILLINOIS,OUTComcast,ComcastWomen,ComcastFL,ComcastSport]""",Technology
+2021,Chevron,94692,27,"""[Chevron,ChevronSTEMZone]""",Energy
+2021,Dell,94224,28,"""[Dell,DellXPS,DellTech]""",Technology
+2021,Bank of America,93753,29,"""[BankofAmerica,BofA_News,BofAPrivateBank,BofA_Business,MerrillLynch]""",Finance
+2021,Target,93561,30,"""[Target,TargetNews]""",Retailing
+2021,Lowe's,89597,31,"""[Lowes,LowesMedia,Lowes_Canada,LowesFoods,LowesLabs]""",Retailing
+2021,Marathon,88952,32,"""[MarathonPetroCo,Andeavor]""",Energy
+2021,Citigroup,88839,33,"""[Citi,Citi973,CitiBikeNYC,CitiOpen,CitiBizNews,CitiVentures,Citibank]""",Finance
+2021,Facebook,85965,34,"""[Meta,WorkplaceMeta,MetaforBusiness,MetaNewsroom,facebookapp,MetaQuestGaming,MetaforCreators,techatfacebook,MetaQuestVR,fb_engineering,DesignatMeta,MetaAI,MetaOpenSource,metaindia,MetaElevate,RealityLabs,facebook,FacebookGaming,MetaforDevs,instagram,WhatsApp,whatsappbiz,Oculus_Dev,OculusBusiness]""",Technology
+2021,United Parcel Service,84628,35,"""[UPS,UPSAirlines,TheUPSStore,UPSCapital,UPS_News,UPS_UK,UPSPolicy,UPS_Canada,UPS_Foundation,UPS_Europe,UPS_Healthcare,UPS_EUPolicy]""",Transportation
+2021,Johnson & Johnson,82584,36,"""[JNJNews,johnsonsbaby,JNJHistory]""",Healthcare
+2021,Wells Fargo,80303,37,"""[WellsFargo,WFInvestments]""",Finance
+2021,General Electric,79619,38,"""[generalelectric,GE_Canada,Gepublicaffairs,GEAustralia,GEAviation]""",Industrials
+2021,State Farm Insurance,78898,39,"""[StateFarm]""",Finance
+2021,Intel,77867,40,"""[intel,IntelGaming,WeAreIntel,intelnews,inteliot,IntelBusiness,intelcapital,IntelIndia,IntelGraphics,IntelSecurity,IntelPolicy,IntelDevTools]""",Technology
+2021,Humana,77155,41,"""[Humana,humananews,HumanaFDN]""",Healthcare
+2021,IBM,73620,42,"""[IBM,IBMData,IBMResearch,IBMWatson,IBMCloud,IBMIoT,IBMDeveloper,ibmdesign,IBMNews,IBMCanada,IBMEuropePolicy,IBMSecurity,IBMSports,IBMPolicy,IBMPartners,IBMEurope,IBMUKI,IBMAnalyst,IBMServers,ibm_in,IBMBlockchain,IBMZ,lifeatibm,IBMFacts,ibmconsulting,IBM_iX,IBMStorage]""",Technology
+2021,Procter & Gamble,70950,43,"""[ProcterGamble,PGUK,PandGBRK]""",Household
+2021,PepsiCo,70372,44,"""[PepsiCo,PepsiCoIndia,pepsico_uk,PepsiCoUKTrade,PepsiCoSD,pepsi]""",Food
+2021,FedEx,69217,45,"""[FedEx,FedExOffice,FedExEurope,FedExCanada,FedExPolicy,FedExIndia,FedexInstitute]""",Transportation
+2021,MetLife,67842,46,"""[MetLife,PNBMetLife1,MetLife_Pet]""",Finance
+2021,Freddie Mac,66228,47,"""[FreddieMac,FreddieMacSF]""",Finance
+2021,Phillips 66,65494,48,"""[Phillips66Co,Phillips66Gas,Phillips66UK,P66Aviation,phillips66media]""",Energy
+2021,Lockheed Martin,65398,49,"""[LockheedMartin,lmnews,LMUKNews,LMSpace,thef35,LMIndiaNews,LMCanadaNews,LMEuropeNews]""",Aerospace and Defence
+2021,Walt Disney,65388,50,"""[DisneyStudios,WaltDisneyWorld,WaltDisneyCo,WDFMuseum,DisneyMusic,Disney,TWDCArchives,DisneyAnimation,DisneyStudiosCA,DisneyParks,Disney_UK,DisneyStudiosIN,disneybroadway,disneyplus,disneyplusza,shopDisney,Disneyland,DisneyBooks,DisneyChannel,DisneyChannelUK,DisneyXD,DisneyTVA,DisneyCSR,DisneyJunior]""",Media
+2021,Archer Daniels Midland,64355,51,"""[TradeADMIS,ADMupdates,ADMAustralia]""",Food
+2021,Albertsons,62455.1,52,"""[Albertsons]""",Food
+2021,Valero Energy,60115,53,"""[ValeroEnergy,ValeroBRK]""",Energy
+2021,Boeing,58158,54,"""[Boeing,BoeingAirplanes,BoeingSpace,BoeingUK,BoeingDefense,Boeing_In,BoeingAustralia,BoeingEurope,BoeingAcademy]""",Aerospace and Defence
+2021,Prudential Financial,57033,55,"""[Prudential,PrudentialNews,pgim]""",Finance
+2021,Hewlett-Packard,56639,56,"""[hp,HPUK,HP_Newsroom,HPChannelNews,HPSustainable,HPdeals,OMENbyHP,HPGraphicArts,hplabs,HPIndia,HPEDU,HPBusiness,OMENbyHP_UK,HP_Australia]""",Technology
+2021,Raytheon,56587,57,"""[RaytheonTech,RaytheonIntel,RaytheonDefense,RaytheonPolicy,Raytheon_UK]""",Aerospace and Defence
+2021,StoneX,54139.6,58,"""[StoneX_Official]""",Finance
+2021,Goldman Sachs Group,53498,59,"""[GoldmanSachs,marcus_uk,marcus]""",Finance
+2021,Sysco,52893.3,60,"""[Sysco,SyscoCanada,SYSCOSOFTWARE]""",Wholesalers
+2021,Morgan Stanley,52047,61,"""[MorganStanley,etrade]""",Finance
+2021,HCA,51533,62,"""[HCAhealthcare,HCAHospitalsUK]""",Healthcare
+2021,Cisco Systems,49301,63,"""[Cisco,CiscoCollab,CiscoLive,CiscoPress,LearningatCisco,CiscoNetworking,CiscoSecure,ciscoDC,CiscoPartners,CiscoIT,meraki,Webex,CiscoIoT,CiscoUKI,CiscoCloud,CiscoEvents,CiscoSoftware,WeAreCisco,cisco_in]""",Technology
+2021,Charter,48097,64,"""[charterworks,CharterNewsroom]""",Technology
+2021,Merck,47994,65,"""[Merck,merckgroup,MerckforMothers,MerckAH,USMerckProducts,MerckHealthcare,MerckManualPro,MerckFoundation,MerckIndia]""",Healthcare
+2021,Best Buy,47262,66,"""[BestBuy,BBYNews,BestBuyCanada,BestBuyCSR,BestBuy_Deals,BBYInfluencers,BestBuyBusiness,BestBuyEdu]""",Retailing
+2021,New York Life Insurance,46712.4,67,"""[NewYorkLife,NYLInvestments]""",Finance
+2021,AbbVie,45804,68,"""[abbvie,abbvieuk,abbviecanada,AbbVieUS,AbbVie_AU,AbbVieCM]""",Healthcare
+2021,Publix Super Markets,45204,69,"""[Publix,PublixGWM]""",Food
+2021,Allstate,44791,70,"""[Allstate,AllstatePP,AllstateCanada,AllstateFDN,AllstateIDP]""",Finance
+2021,Liberty Mutual,43796,71,"""[LibertyMutual,LibertyB2B,Liberty_IT]""",Finance
+2021,AIG,43736,72,"""[AIGInsurance,TataAIGIndia]""",Finance
+2021,Tyson Foods,43185,73,"""[TysonFoods,TysonBrand,tysonfoods_au,TysonFoodsLive,TysonFoodsNews]""",Food
+2021,Progressive,42658.1,74,"""[Progressive]""",Finance
+2021,Bristol-Myers Squibb,42518,75,"""[bmsnews,ScienceAtBMS]""",Healthcare
+2021,Nationwide,41929.8,76,"""[Nationwide,nationwidekids,NW_Sports,NationwidePet,NWFinancial]""",Finance
+2021,Pfizer,41908,77,"""[pfizer,Pfizer_UK,PfizerEUPolicy,PfizerCongress,PfizerCA,PfizerOncMed]""",Healthcare
+2021,Caterpillar,41748,78,"""[CaterpillarInc,CatFoundationTS,shopcatuk]""",Industrials
+2021,TIAA,41619.3,79,"""[TIAA,TIAABankField,NuveenInv,TIAABank,TIAAInstitute]""",Finance
+2021,Oracle,39068,80,"""[Oracle,redbullracing,OracleDatabase,OracleCloudHCM,OracleLinux,OracleParkSF,virtualbox,OracleCloudERP,OracleExadata,OracleAPEX,Oracle_EBS,OracleCloudSCM,OracleCloud,oracleasean,OracleMarketing,OracleDevs,OracleDataCloud,CloudWorld,oraclepartners,Oracle_Edu,OracleConnect,OracleFS,OracleNews,OracleRetail,OracleJDEdwards,bridge_oracle,OracleHosp,Oracle_India,OracleDiversity,OracleStartup,OracleConsult,ORCLCitizenship,ORCLEnergyWater]""",Technology
+2021,Energy Transfer,38954,81,"""[EnergyTransfer]""",Energy
+2021,Dow,38542,82,"""[DowNewsroom,DowPackaging,dowsilicones,DowEurope,DowPolicy]""",Industrials
+2021,American Express,38185,83,"""[AmericanExpress,AmexUK,AmexBusiness,AmexBusinessUK,AmexBusinessCan,amexgbt,KabbageInc,theamexgolf,AMEXessentials]""",Finance
+2021,General Dynamics,37925,84,"""[generaldynamics,GDMS,GD_LandSystems,GD_OTS,gduknews,GDMS_C,GDIT,GDBIW,GDElectricBoat]""",Aerospace and Defence
+2021,Nike,37403,85,"""[Nike,nikesb,nikefootball,nikebasketball,Jumpman23,usnikefootball,NikeNYC,nikestore,nikegolf,NikeLA,nikediamond,NikeN7]""",Apparel
+2021,Northrop Grumman,36799,86,"""[northropgrumman,NGCNews,CEOLaser]""",Aerospace and Defence
+2021,USAA,36296.2,87,"""[USAA,USAA_jobs]""",Finance
+2021,Deere,35540,88,"""[JohnDeere,JDClassic,TPCDeereRun]""",Industrials
+2021,Abbott Laboratories,34608,89,"""[AbbottNews,AbbottGlobal]""",Healthcare
+2021,Northwestern Mutual,33782.1,90,"""[NM_Financial,NMFuture,NMGreatChicago,NMMeetings]""",Finance
+2021,Dollar General,33746.8,91,"""[DollarGeneral,DGYellowGlasses]""",Retailing
+2021,Exelon,33039,92,"""[Exelon]""",Energy
+2021,Coca-Cola,33014,93,"""[CocaCola,CocaCola_GB,CocaColaCo,cocacola_ca,WorldofCocaCola,CocaColaRacing,CocaColaEP,ccfreestyle,CocaColaRoxy,cocacolaarena,cokescholars,DietCoke,CocaCola_Ind,CocaColaCo_ca,CocaColaAU,CocaColaAU_Co,MaazaIndia,HCCB_Official,CocaColaSanta,CocaCola_EU]""",Food
+2021,Honeywell International,32637,94,"""[honeywell,Honeywell_Aero,HoneywellArts,HoneywellWheat,HoneywellFoods,HoneywellBiscCo]""",Industrials
+2021,Thermo Fisher Scientific,32218,95,"""[thermofisher,AspireMembers,thermofisherEU,ChromSolutions,BioSciencesLtd,thermosci,Patheon]""",Technology
+2021,3M,32184,96,"""[3M,3MOpen,3mhalfmarathon,3MNews,3MUK,3MIndia,3MSafety,3MHealthCare,3MCollision,3MAustria,3MOralCare,3MScott,3MCanada,3mcarcareindia,3MFilmsUK,3MHISNews,3MScotchlite,3MScreens,3MFilms,3MEurope,Atlantic_3Ms,3MBIC]""",Industrials
+2021,TJX,32137,97,"""[tjmaxx]""",Retailing
+2021,Travelers,31981,98,"""[Travelers,TravelersChamp]""",Finance
+2021,Capital One,31643,99,"""[CapitalOne,CapitalOneArena,CapitalOneCafe,capitalonenews,CapitalOneTech,CapitalOneUK,CapitalOneBiz,CapitalOneCA,IAmCapitalOne,TeamShopAtCOA]""",Finance
+2021,Tesla,31536,100,"""[Tesla,TeslaBand,elonmusk,teslascience,TeslaMotorsClub]""",Transportation
+2021,Philip Morris International,28694,101,"""[InsidePMI]""",Food
+2021,Arrow Electronics,28673.4,102,"""[ArrowGlobal,Richardson_RFPD,arrowasia]""",Wholesalers
+2021,CHS,28406.4,103,"""[CHSInc,hedgeit,CHSGovAffairs]""",Food
+2021,Jabil,27266.4,104,"""[Jabil,NyproHealthcare,SW_services,JabilDefense]""",Technology
+2021,Enterprise Products,27199.7,105,"""[Eprod_Careers]""",Energy
+2021,Hewlett Packard Enterprise,26982,106,"""[HP,HPUK,HP_newsroom,HPChannelNews,HPSustainable,HPCareers,Hpdeals,OMENbyHP,HPSingapore,hplabs,HPEDU,HPIndia,HPBusiness,HPE_labs,HPE,HPE_OEM,HPE_IN]""",Technology
+2021,United Natural Foods,26742.8,107,"""[UNFI]""",Wholesalers
+2021,Mondelez International,26581,108,"""[MDLZ]""",Food
+2021,Viacom,26186,109,"""[viacom18,Viacom18Studios,VIMN_PR,viacbsstreaming,ViacomStudiosUK,HEREAtViacom,ViaCBS_VF,Viacom18Store,ViacomGenChange,ViacomMusic,Viacommunity]""",Media
+2021,Kraft Heinz,26185,110,"""[KraftBrand,kraftmacncheese,KraftHeinzCo,KraftSingles,KraftPB,kraftcheese,KraftHeinzCan,RealKraftMayo,HeinzUK]""",Food
+2021,Dollar Tree,25509.3,111,"""[DollarTree]""",Retailing
+2021,Amgen,25424,112,"""[Amgen,AmgenTOC,AmgenOncology,AmgenFoundation,AmgenBiosim,theamgen,AmgenCanadaGM]""",Healthcare
+2021,U.S. Bancorp,25241,113,"""[usbank,usbank_news,bancorpventures,usbankstadium]""",Finance
+2021,Performance Food Group,25086.3,114,"""[performncefoods,PFGCareers]""",Wholesalers
+2021,Netflix,24996.1,115,"""[netflix,NetflixUK,NetflixFilm,NetflixIndia,Netflix_CA,NetflixGeeked,NetflixNordic,NetflixIsAJoke,TheCrownNetflix,WeAreNetflix,StarTrekNetflix,NetflixEng,dvdnetflix,Netflixfood]""",Media
+2021,Gilead Sciences,24689,116,"""[GileadSciences,GileadOncology]""",Healthcare
+2021,Synnex,24675.6,117,"""[SYNNEX,TDSYNNEX,SYNNEXFinancial,Varnex]""",Wholesalers
+2021,Eli Lilly,24539.8,118,"""[LillyPad,LillyPadEU,LillyRheumEU]""",Healthcare
+2021,Truist Financial,24427,119,"""[TruistNews,TruistPark,truistinc]""",Finance
+2021,PNC Financial Services,24039,120,"""[PNCArena,PNCBank,PNCNews,PNCArtsCenter,PNCParkEvents,PNCStadium]""",Finance
+2021,Broadcom,23888,121,"""[Broadcom,symantec,BroadcomVSM,AppNeta,BroadcomSW,BroadcomSTEM,BroadcomMSD,BroadcomSwitch,BroadcomAIOps,ConnectBroadcom]""",Technology
+2021,CB Richard Ellis,23826.2,122,"""[CBREAmericas,CBRE,CBRE_UK,cbreNewZealand,cbrecapitalmkts,CBREHongKong,CBRESoCal,CBRENYTriState,cbreasia,cbrechicago,CBRE_India,CBREcolorado,CBRERetail,cbrebuild_nyc,cbremultifamily,CBRE_IM,cbredatacenters,CBREworkplace,CBREIndustrial,CBRETechMedia,CBREHotels,cbrepropmgmt,cbrepjm]""",Finance
+2021,Massachusetts Mutual,23663.1,123,"""[massmutual,Massgov,MM_Center,CambridgeAid]""",Finance
+2021,Qualcomm,23531,124,"""[Qualcomm,QualcommVenture,qualcomm_in,Snapdragon,QCOMResearch,Qualcomm_EU,QI_UCSD,QualcommforGood,QualcommPolicy,QC_EUPolicy]""",Technology
+2021,Starbucks,23518,125,"""[Starbucks,StarbucksUK,StarbucksCanada,StarbucksIndia,StarbucksNews,StarbucksAu,StarbucksIE,starbucksmusic,starbucks_gb]""",Food
+2021,Duke Energy,23453,126,"""[DukeEnergy,DukeUEnergy,DE_Nuclear,DECRaleigh]""",Energy
+2021,Plains GP Holdings,23290,127,null,Energy
+2021,US Foods,22885,128,"""[USFoods]""",Wholesalers
+2021,Lennar,22488.9,129,"""[Lennar]""",Industrials
+2021,Danaher,22284,130,"""[DanaherCorp]""",Healthcare
+2021,Aflac,22147,131,"""[aflac]""",Finance
+2021,Rite Aid,21928.4,132,"""[riteaid]""",Food
+2021,Visa,21846,133,"""[Visa,VisaUK,VisaNews,VisaCheckout,VisaSecurity,VisaIreland,VisaAU,VisaDeveloper,Visa_IND,VisaCA]""",Finance
+2021,PayPal,21454,134,"""[PayPal,PayPalNews,PayPalUK,PayPal4Business,paypaldev,PayPalAU,PayPalCA,ZettlebyPayPal,PayPalIN,PayPalEng,PayPal_Policy,PayPalPark]""",Finance
+2021,Micron Technology,21435,135,"""[MicronTech,MicronCEO]""",Technology
+2021,CarMax,21424.1,136,"""[CarMax,carmaxautocare]""",Retailing
+2021,Salesforce,21252,137,"""[salesforce,SalesforceOrg,SalesforceEng,SalesforceNews,salesforcesmb,SalesforceDevs,SalesforceAdmns,appexchange,partnerforce,SalesforceUX,SalesforceEQ,SFResearch,SalesforceUK,salesforcedocs,SalesforceforIT,salesforce_IR,SalesforceVC,SalesforceQuip,SalesforceCA,SalesforceEdu,SalesforceGov,salesforcestart,salesforceind,Datorama,SalesforceLive,SalesforceArchs,Salesforceben,Salesforce_labs,ServiceCloud]""",Technology
+2021,Altria Group,20841,138,"""[AltriaNews]""",Food
+2021,Lumen Technologies,20712,139,"""[lumendatabase,lumentechco,StellarOrg,lumenprize,LumenField]""",Technology
+2021,Baker Hughes,20705,140,"""[bakerhughesco,bakerhughes_ME]""",Energy
+2021,International Paper,20580,141,"""[IntlPaperCo,IntlPaperGR]""",Industrials
+2021,Hartford Financial Services,20523,142,"""[TheHartford,HartfordBiz]""",Finance
+2021,Penske Automotive Group,20443.9,143,"""[Team_Penske,PenskeMedia,PenskeNews,PenskeMoving,PenskeLogistics,penskeautomall,PenskeUsedTruck,PenskeCars]""",Retailing
+2021,DuPont,20397,144,"""[DuPont_News,PioneerSeeds]""",Industrials
+2021,AutoNation,20390,145,"""[AutoNation,imaxftl]""",Retailing
+2021,Southern,20375,146,"""[SouthernGas,SouthernCoGas,SouthernCompany]""",Energy
+2021,World Fuel Services,20358.3,147,"""[world_fuel]""",Energy
+2021,D.R. Horton,20311.1,148,"""[DRHorton]""",Industrials
+2021,Nucor,20139.7,149,"""[NucorSkyline,NucorCorp,nucor_steel,CENTRIA,Metl_Span,NucorGreen]""",Industrials
+2021,Cummins,19811,150,"""[Cummins,NAICummins,CumminsAllison,CumminsEurope]""",Industrials
+2021,NGL Energy Partners,19770.9,151,null,Energy
+2021,DXC Technology,19577,152,null,Technology
+2021,Union Pacific,19533,153,"""[UnionPacific,shipUP,UP_steam,UPRRMuseum]""",Transportation
+2021,Whirlpool,19456,154,"""[WhirlpoolCorp,whirpoolusa,WhirlpoolBathUK,Whirlpool_CA,WhirlpoolCare,WhirlpoolUK]""",Industrials
+2021,Molina Healthcare,19423,155,"""[molinahealth,AffinityByMHC]""",Healthcare
+2021,ConocoPhillips,19256,156,"""[conocophillips,cop_newsroom,EINConoco,COP_Alaska]""",Energy
+2021,McDonald's,19207.8,157,"""[McDonalds,mcdonaldsindia,McDonaldsUK,McDonaldsCanada,McDonaldsCorp,McDonaldsPK,McDonaldsUKNews,QuadCitiesMcD,McDonaldsIRL]""",Food
+2021,Kimberly-Clark,19140,158,"""[KCCorp,KCCareers]""",Household
+2021,Paccar,18728.5,159,null,Industrials
+2021,PG&E,18469,160,"""[PGE4Me]""",Energy
+2021,CDW,18467.5,161,"""[CDWCorp,CDW_Healthcare,CDW_UK,CDWCanada,CDWStudios]""",Technology
+2021,Sherwin-Williams,18361.7,162,"""[SherwinWilliams,HGTVHOMEbySW,SWCoilCoatings,SWDesignPros,BlendSupply]""",Industrials
+2021,L3Harris Technologies,18194,163,"""[L3HarrisTech,GeoByHarris,L3HarrisAcademy,TrenchantARC]""",Aerospace and Defence
+2021,Macy's,18097,164,"""[Macys,MacysTourism,JohnWmMacys,MacysBackstage,macysnews,CulinaryCouncil]""",Retailing
+2021,Manpower,18001,165,"""[manpower,ManpowerGroup,manpowerme,Manpower_US,ManpowerCanada,ManpowerGroupUK,MPG_Tsolutions,ManpowerGroupIn,ManpowerUKtoday,Tsolutions_UK]""",Media
+2021,NextEra Energy,17997,166,"""[NextEraEnergyR,nexteraenergy,NexteraDPC,NextEraPOS,nexteracomm,NextEraGlobal,GexaVoice,NextEraPkg,NextErabd]""",Energy
+2021,Tenet Healthcare,17640,167,"""[tenethealth]""",Healthcare
+2021,Avnet,17634.3,168,"""[Avnet,element14_Avnet,Farnell_Avnet,AvnetSilica,Avnet_Abacus,AvnetIntegrated,Newark_Avnet,softwebchicago]""",Wholesalers
+2021,General Mills,17626.6,169,"""[GeneralMills]""",Food
+2021,WestRock,17578.8,170,"""[WestRock,WestrockCoffee]""",Industrials
+2021,Carrier,17456,171,"""[carrier,CarrierHVAC,SmartColdChain,CarrierAtHome]""",Industrials
+2021,Lincoln National,17439,172,"""[lincolnfingroup,LFFStadium,Join_LFN,lfdistributors,LincolnFinatic]""",Finance
+2021,Genuine Parts,17384.4,173,"""[genuinepartsco]""",Wholesalers
+2021,American Airlines Group,17337,174,"""[AmericanAir,AACreditUnion,aairwaves]""",Transportation
+2021,Marsh & McLennan,17224,175,"""[MarshMcLennan,MMABouchard,MMASouthwest,MMAUpperMidwest,MMA_PCS,Marsh_MMA,Mercer,MarshGlobal]""",Finance
+2021,Applied Materials,17202,176,"""[Applied4Tech,ACS_AMI,Applied_VC,ACS_AEM,ACS_ABM]""",Technology
+2021,Becton Dickinson,17117,177,"""[BDandCo,BDBiosciences]""",Healthcare
+2021,Delta Air Lines,17095,178,"""[Delta,DeltaHotelsLtd,EndeavorAir,deltafaucet]""",Transportation
+2021,Lear,17045.5,179,"""[LearCapital,LearCorporation]""",Transportation
+2021,Bank of New York Mellon,16940,180,"""[BNYMellon,BNYMellonWealth,Pershing,NewtonIM]""",Finance
+2021,Emerson Electric,16785,181,"""[Emerson_News,EmersonComRes,EMR_Automation,EmCollective,EmersonHospital]""",Industrials
+2021,Western Digital,16736,182,"""[westerndigital,WDCreators,WesternDigiCTO,wd_black]""",Technology
+2021,Occidental Petroleum,16680,183,"""[WeAreOxy]""",Energy
+2021,Nvidia,16675,184,"""[nvidia,NVIDIAGeForce,NVIDIAGeForceUK,NVIDIAGFN,NVIDIASHIELD,NVIDIAAI,NVIDIANetworkng,NVIDIAGameDev,NVIDIAEmbedded,NVIDIAAIDev,NVIDIAHPCDev,NVIDIAEU,NVIDIACreators,NVIDIAVirt,NVIDIADC,NVIDIAAP,NVIDIADRIVE,nvidiaomniverse,NVIDIADesign,NVIDIAGTC,NVIDIAHealth,nvidiadeveloper]""",Technology
+2021,Cognizant,16652,185,"""[Cognizant,AstonMartinF1,JoinCognizant,CognizantThink,NetcentricHQ,wearesoftvision,CognizantNews,CognizantEvents,TZProvider,CognizantFdn,TQS_Integration,ZT_Global,linium,hpa_automation,cogcommnews,TriZetto,DataLitProject]""",Technology
+2021,Jones Lang LaSalle,16589.9,186,"""[kingsturge]""",Finance
+2021,Synchrony Financial,16472,187,"""[synchrony,SynchronyFi,SynchronySys,SynchronyGlobal,Synchrony_HS,SynchronyHR,SynchronyInno,SYFNews]""",Finance
+2021,Colgate-Palmolive,16471,188,"""[CP_news,Colgate,ColgateUK,ColgateIndia]""",Household
+2021,AECOM,16390.8,189,"""[AECOM,AECOMTransport,AECOMBuildPlace,AECOMHunt,AECOMEnvWater,AECOMSports,AECOMTishman,AECOMEnergy,AECOMGovernment,AECOMIndustrial,AECOML,AECOMUrbanSOS]""",Industrials
+2021,XPO Logistics,16252,190,"""[XPOLogistics,XPOLogistics_Eu,LifeatXPO,XPOLogisticsTB]""",Transportation
+2021,CH Robinson,16207.1,191,"""[CHRobinson,TMC_ManagedTMS]""",Transportation
+2021,BlackRock,16205,192,"""[BlackRock,BlackRock_Eng,BlackRockCA,BlackRock_UK,blackrockmarket,BRCSilver,BlackrockNeuro,BLKPublicPolicy,BlackRock_News]""",Finance
+2021,Dominion Energy,16128,193,"""[DominionEnergy,DomEnergyNews,DECCGolf,DomEnergyCU,DomEnergyMedia1,Dom_millstone,DomEnergyMedia2,DomEnergyMedia3]""",Energy
+2021,Rocket Companies,15980.7,194,"""[RocketCompanies,RocketAuto]""",Finance
+2021,Kohl's,15955,195,"""[Kohls,KohlsKicking,KohlsNews,KohlsSnapping]""",Retailing
+2021,Fluor,15884.2,196,"""[FluorCorp,fluorcanada]""",Industrials
+2021,DISH Network,15493.4,197,"""[dish,DishTV_India,DSideDish,freedish_dd,DISHNews,republicwireless]""",Technology
+2021,BJ's Wholesale Club,15430,198,"""[bjsrestaurants,BJsWholesale]""",Retailing
+2021,Tenneco,15379,199,"""[TennecoInc,TennecoTechNews,DRiV_Inc,TennecoAM_EMEA,Tennecoontour]""",Transportation
+2021,United Airlines,15355,200,"""[united,UnitedPilots,airwisconsin]""",Transportation
+2021,Mastercard,15301,201,"""[Mastercard,MastercardUK,MastercardFdn,MastercardNews,mastercardindia,MastercardNexus,MastercardEU,MastercardEU,MastercardAP,CNTR4growth,wearemastercard,MastercardCA,via_protocol,MastercardUKbiz,Mastartpath,Mastercard_PGS,MastercardAU,MastercardIRE,MCFMakerere,SessionM,NuDataSecurity,brighterion,finicity,riskrecon,EkataGlobal,MCFalumni,MastercardBiz,investvoyager,bitsCrunch]""",Finance
+2021,Waste Management,15218,202,"""[WasteManagement,WMPhoenixOpen,WAMCOmv]""",Healthcare
+2021,PBF Energy,15115.9,203,null,Energy
+2021,American Electric Power,14918.5,204,"""[AEPnews,AEP_EconDev]""",Energy
+2021,Fiserv,14852,205,"""[Fiserv,FiservForum]""",Finance
+2021,Principal Financial,14741.7,206,"""[principal,PrincipalMTY]""",Finance
+2021,Reinsurance Group of America,14596,207,"""[RGA_RE]""",Finance
+2021,ADP,14589.8,208,"""[ADP,workmarket,ADPList,ADP_China,GroupeADP,ADP_UK,AIRSTraining,ADP_CDA,ADPRsocial]""",Technology
+2021,Stanley Black & Decker,14534.6,209,"""[StanleyBlkDeckr,stanley_ef,HustlerTurf]""",Household
+2021,Texas Instruments,14461,210,"""[TXInstruments,TICalculators,TXInstrumentsEU,TXInstrumentsIN,AroundTI,TINspireUK]""",Technology
+2021,Halliburton,14445,211,"""[halliburton,GHFoundation,HalliburtonLabs]""",Energy
+2021,Stryker,14351,212,"""[stryker_spine,StrykerEC,Stryker_NV,StrykerEndo,StrykerComm,Stryker_ST,StrykerOI]""",Healthcare
+2021,Estee Lauder,14294,213,"""[EsteeLauder,EsteeLauderUK,Poshmarkapp,elcompanies]""",Household
+2021,Corteva,14217,214,"""[corteva,CortevaUS,CortevaCA,CortevaUK,CortevaEUR,CortevaUSTurf,CortevaAU,CortevaPastures,CortevaVegMgmt,CortevaForage]""",Food
+2021,Freeport-McMoRan,14198,215,"""[FM_FCX,McmoranFreeport,fmimcmoran,pt_mcmoran]""",Energy
+2021,Qurate Retail,14177,216,"""[QurateRetailGrp]""",Retailing
+2021,Wayfair,14145.2,217,"""[Wayfair,WayfairUK,wayfairatwork,WayfairCanada,WayfairTech,wayfairdesign,WayfairPro,DataWayfair]""",Retailing
+2021,Laboratory of America,13978.5,218,"""[Fermilab,Labcorp,LabcorpDrugDev,CorpWellness,VectraScore,ToxikonCRO,LabcorpTrials]""",Healthcare
+2021,Land O'Lakes,13948.9,219,"""[LandOLakesInc,LandOLakesKtchn,LandOLakesV37]""",Food
+2021,PPG,13834,220,"""[PPG,PPGPaintsArena,PPGPaints,PPGPeople,PPGRefinish_NA]""",Industrials
+2021,Gap,13800,221,"""[Gap,GapInc,GapKids,Ukgap,RealGapExp,GapFactory,GapIntl]""",Retailing
+2021,Kellogg,13770,222,"""[KelloggsUS,KelloggCompany,KelloggsRDs,KelloggsIndia,KelloggsUKI,SquaresRK]""",Food
+2021,Parker Hannifin,13695.5,223,"""[ParkerHannifin,ParkerElectro,ParkerAerospace,ParkerFilters,ParkerHydraulic,ParkerPneumatic]""",Industrials
+2021,Core-Mark,13617.1,224,"""[CoreMarkHQ,CoreMarkCanada,CoreMarkCareers]""",Wholesalers
+2021,Jacobs Engineering Group,13578.2,225,"""[JacobsConnects]""",Industrials
+2021,Edison International,13578,226,"""[edisonintl,SCE,Edison_Energy,EEI_Intl,Edison_Electric,edisonresearch,Edison_Electric,edisonnation,EdisonLearning,edisonventure]""",Energy
+2021,Guardian Life of America,13561.5,227,"""[guardianlife]""",Finance
+2021,Biogen,13444.6,228,"""[biogen,biogenms,BiogenAD,HelixBiogenInst,genesisbiogen]""",Healthcare
+2021,Omnicom,13171.1,229,"""[Omnicom,OMGMENA,OMDMENA,PHDMENA,HeartsScienceAE,OmnicomMediaGrp,OMD_Worldwide,OMG_UK,OMD_USA,OHGTalent,LegionOmnicom,OmnicomHealth]""",Media
+2021,Unum Group,13162.1,230,"""[Unu,AskUnum]""",Finance
+2021,Lithia Motors,13124.3,231,"""[lithiamotors]""",Retailing
+2021,American Family Insurance,13074.5,232,"""[amfam,CONNECTbyAmFam,amfamchamp,AmFamAmp,AmFamNews,AmFamInstitute,StrickerFNDN]""",Finance
+2021,Discover Financial Services,12953,233,"""[Discover,DiscoverMag,discoverCHEER,DiscoverGRcom,DiscoverEorg,DiscoverSoc]""",Finance
+2021,Adobe,12868,234,"""[Adobe,Photoshop,Lightroom,creativecloud,AdobeXD,AdobeDesign,AdobeForEdu,AdobeAE,InDesign,adobeanimate,AdobeVideo,Substance3D,dreamweaver,AdobeExpCloud,AdobeGenCreate,AdobeDocCloud,Acrobat,AdobeTCS,AdobeAero,AdobeSummit,adobeconnect,AdobeCreate,adobedevs,AdobePortfolio,coldfusion,AdobeAdCloud,AdobeWorkfront,AdobeCommerce,AdobeMarketo,PremiereRush,AdobeExpress,AdobeGov,AdobeDrawing,AdobeElements,adobemax,AdobeResearch,AdobeNews,AdobeCanada,AdobeUK,AdobeAccess,AnalyticsCloud,AdobeUKStudents,AdobeELearning]""",Technology
+2021,Aramark,12829.6,235,"""[Aramark,AramarkSports,TravelARAMARK,MileHighFoods,AramarkNE,KC_Aramark,AramarkUniforms,AramarkFenway,K12Aramark,TOBallParkEats,AramarkNews,NPOChiDistrict,AramarkORS,ARAMARKHC]""",Food
+2021,Otis Worldwide,12756,236,"""[OtisElevatorCo,OtisTechnology]""",Industrials
+2021,Ecolab,12748.7,237,"""[Ecolab,EnergyEcoLab,Franklin_EcoLab,PuroliteLLC,CIDLINES,EcoLab_BET,EcolabFdn,ECLHealthcare,Nalco_News,EcolabEquipCare,EcolabEvents]""",Industrials
+2021,AutoZone,12632,238,"""[autozone,AZOLibertyBowl,AutoZone_Park]""",Retailing
+2021,Loews,12583,239,"""[Loews_Hotels,LoewsSMBeach,FeinsteinsLoews,LIVEatLoews]""",Finance
+2021,Illinois Tool Works,12574,240,"""[ITWInc,IllToolWorks]""",Industrials
+2021,Fidelity National Information Services,12552,241,"""[Fidelity,fidelitybankplc,Fidelity_UK,FISGlobal,Fidelity_Secure,FidelityChrtbl,BlueFidelity,fidelitysmes,fidelitycanada,DigitalAssets,SCI_Fidelity,FidelityNews,FidelityInst,FidelityPolicy]""",Finance
+2021,Ross Stores,12531.6,242,"""[Ross_Stores]""",Retailing
+2021,Peter Kiewit Sons,12463,243,"""[PeterKiewitFdn,PeterKiewitInst]""",Industrials
+2021,Equitable Holdings,12415,244,"""[EquitableFin]""",Finance
+2021,WESCO,12326,245,"""[WESCOcorp,WescoLivingUK,EFCWesco,WESCObroadcast,wesco_security]""",Wholesalers
+2021,Goodyear Tire & Rubber,12321,246,"""[goodyear,GoodyearBlimp,goodyear_uk,GoodyearRacing,GoodyearIndia,GoodyearFarm,CottonBowlGame,Goodyearpress,GoodyearSA]""",Transportation
+2021,Fox,12303,247,"""[FOXTV,FOXtvUK,FoxNews,NFLonFOX,FOXSports,20thcentury,FoxBusiness,foxnation,searchlightpics,foxnewsalert,fox5ny,CFBONFOX,foxoakland,NASCARONFOX,foxnewspolitics,FoxLifeIndia,FOXSportsAUS,FOXLA,FS1,FOX61,HBO]""",Media
+2021,Leidos Holdings,12297,248,"""[LeidosInc,IntranetQuorum,LeidosPress,LeidosCyber,FredNatLab,LeidosHealth]""",Technology
+2021,Consolidated Edison,12246,249,"""[ConEdison]""",Energy
+2021,DTE Energy,12177,250,"""[DTE_Energy,DTEEnergyMusicT,DTEGardens]""",Energy
+2021,Charles Schwab,12109,251,"""[CharlesSchwab,CSChallengeFW,CharlesSchwabFO,Schwab4RIAs]""",Finance
+2021,State Street,12078,252,"""[StateStreet,StateStreetGA,StateStreetETFs,StateStBallet,statestdistrict]""",Finance
+2021,Ameriprise Financial,11958,253,"""[ameriprise,AmeripriseFinTV,flatironnh,AmeripriseIndia]""",Finance
+2021,Viatris,11946,254,"""[ViatrisInc]""",Healthcare
+2021,Sempra Energy,11940,255,"""[Sempra,Semprainfra,SempraHomes]""",Energy
+2021,Farmers Insurance Exchange,11869.7,256,"""[WeAreFarmers]""",Finance
+2021,Bath & Body Works,11846.9,257,"""[bathbodyworksau,aroma_works,BathBodyNews]""",Retailing
+2021,W.W. Grainger,11797,258,"""[grainger]""",Wholesalers
+2021,Community Health Systems,11789,259,"""[CHSI_Clinics,CECatCHSI,CHSIEvents]""",Healthcare
+2021,Ball,11781,260,"""[BallCorpHQ]""",Industrials
+2021,Berry Global Group,11709,261,"""[BerryGlobalInc]""",Industrials
+2021,Kinder Morgan,11700,262,"""[Kinder_Morgan,KM_Canada]""",Energy
+2021,VF,11688.1,263,"""[VFCorp]""",Apparel
+2021,Baxter International,11673,264,"""[baxter_intl,HillromCorp]""",Healthcare
+2021,Textron,11651,265,"""[Textron,BellFlight,TXTSystems,TextronAviation,TxtAvDefense,ATACTextron,ArcticCatORV,TextronDefense,wearetxtsystems,TRUsimulation,TextronAV,TextronInfocare]""",Aerospace and Defence
+2021,LKQ,11628.8,266,"""[LKQCorp,LKQEuroCarParts,LKQSelfService,LKQHeavyTruck,lkqonline]""",Wholesalers
+2021,Keurig Dr Pepper,11618,267,"""[KDP_Canada,GreenMtnCoffee,drpepper,Keurig,DrPepper_GB,drpeppermuseum,DrPepperSnapple,DrPepperPark]""",Food
+2021,O'Reilly Automotive,11604.5,268,"""[OReillyMedia,oreillyauto]""",Retailing
+2021,Crown Holdings,11575,269,"""[StrataHomes,LoanCrown,Crownmgt]""",Industrials
+2021,Universal Health Services,11558.9,270,null,Healthcare
+2021,DaVita,11550.6,271,"""[DaVita,TourDaVita,DaVitaResearch,DaVitaSOURCE]""",Healthcare
+2021,Xcel Energy,11526,272,"""[xcelenergy,XcelEnergyCtr]""",Energy
+2021,Newmont,11497,273,"""[NewmontCorp,Newmont]""",Energy
+2021,Vistra Energy,11443,274,"""[VistraGroup,VistraCorp,ConsultVistra,VistraCorpGA]""",Energy
+2021,IQVIA Holdings,11359,275,"""[IQVIA_global,IQVIA_US,IQVIA_biotech,IQVIA_UK,IQVIA_AsiaPac,IQVIA_Institute,IQVIA_GMI,IQVIA_HCPSpace,DMD_Digital,IQVIA_MedTech,IQVIA_Tech,IQVIA_Research,_Appscript,IQVIA_developer,inteliquet,Foundry_Health,IQVIA_MEA,ChemInfoService,Linguamatics,PrometheusRsrch,KAIROSgmbh,ctcue]""",Healthcare
+2021,eBay,11351,276,"""[eBay,eBay4CharityUS,eBay_UK,eBayDealsCanada,eBayNewsroom,eBayCanada,ebaytech,eBayForBusiness,ebaymainstreet,eBayAU,eBay4CharityUK,eBayPodcast,ebayinccareers,eBayPartnerNet,eBayAds]""",Technology
+2021,Corning,11303,277,"""[Corning,corninggorilla,OwensCorning,OCInsulation,OCRoofingLLC,corningmuseum,GorillaGlassIN,CorningLifeSci,corningchamber,CorningOpComm]""",Industrials
+2021,Quanta Services,11202.7,278,"""[Quanta_Services,QuantaIR,QuantaTelecom,quantait]""",Industrials
+2021,HollyFrontier,11183.6,279,null,Energy
+2021,Bed Bath & Beyond,11158.6,280,"""[BedBathBeyond]""",Retailing
+2021,Uber Technologies,11139,281,"""[Uber,UberEats,uber_India,Uber_Canada,Uber_NYC,DesigningUber,UberEng,UberUK,UberFreight,UberOpenSource,UberINSupport,UberDevelopers,UberUKsupport,Ubereats_uk,Uber_comms,thamesclippers,Uber_CHI,UberEUPolicy,Uber_Business,Uber_LA,Uber_BLR,uberhealth]""",Technology
+2021,Mutual of Omaha,11098.4,282,"""[mutualofomaha,WildKingdom,MutualMortgage,MutualReverse,MutualFdn,MutualGateway]""",Finance
+2021,Conagra Brands,11054.4,283,"""[ConagraBrands,ConagraFS,Glutinofoods]""",Food
+2021,PulteGroup,11036.1,284,"""[PulteHomes,PulteHealth,pultefamilyfdn,PulteInstitute,PulteGroupNews]""",Industrials
+2021,EOG Resources,11032,285,"""[EOG_news]""",Energy
+2021,Group 1 Automotive,10851.8,286,"""[Group1auto,Group1AutoParts]""",Retailing
+2021,Ally Financial,10780,287,"""[allyfinancial,Ally]""",Finance
+2021,Fidelity National Financial,10778,288,null,Finance
+2021,Nordstrom,10715,289,"""[Nordstrom,nordstromrack,NordstromNow]""",Retailing
+2021,Discovery,10671,290,"""[discoveryplus,Discovery,DiscoveryofGeo,DiscoveryIN,ScienceChannel,discoveryimages,discoveryplusIN,DiscoveryUK,DiscoveryID,wbd,discoveryworld,discoveryfamily,DiscoveryEd,discoveryplusUK,DiscoveryCanada]""",Media
+2021,Tractor Supply,10620.4,291,"""[TractorSupply]""",Retailing
+2021,CSX,10583,292,"""[CSX,CSXSports]""",Transportation
+2021,Marriott International,10571,293,"""[MarriottIntl,MarriottVacClub,MarriottPOV,Marriott,MarriottBonvoy,JWMarriott,Protea,BYUMarriott,ACHotels,worldcenter,CourtyardHotels,FairfieldHotels,MarriottResorts]""",Food
+2021,FirstEnergy,10435,294,"""[firstenergycorp,BrownsProShop,FEStadium,FirstEnergyLtd,1stenergygroup]""",Energy
+2021,BorgWarner,10165,295,"""[BorgWarner,BorgTrophy]""",Transportation
+2021,Edward Jones (Jones Financial Companies),10165,296,"""[EdwardJones]""",Finance
+2021,Republic Services,10153.6,297,"""[RepublicService,RepublicIoT]""",Healthcare
+2021,Henry Schein,10119.1,298,"""[henrySchein,HScheinDental,HenryScheinUK,HScheinMedical,HenryScheinCan,HenryScheinIE,HenryScheinOne,HSUKMedical,HenryScheinSM]""",Healthcare
+2021,Expeditors International of Washington,10116.5,299,"""[EXPD_Official]""",Transportation
+2021,Entergy,10113.6,300,"""[Entergy,EntergyNuclear]""",Energy
+2021,Advance Auto Parts,10106.3,301,"""[AutoAdvanced]""",Retailing
+2021,Assurant,10094.8,302,"""[Assurant,AssurantNews,hylamobile,AssurantLabs,AssurantSports,AssurantI,AssurantEd,Assurant_HL]""",Finance
+2021,Pacific Life,10062,303,"""[pacificlife]""",Finance
+2021,Lam Research,10044.7,304,"""[LamResearch,americanacad,LAMFoundation,TheLamLab,LAM_Australia,LAMTreatment]""",Technology
+2021,Boston Scientific,9913,305,"""[bostonsci,BSCCardiology,BSC_EU_Heart,BSCEMEA_UroPH,bsc_urology,BSC_RhythmUK,BSCEMEA_Neuro,BSCCardioAPAC,BSCDBS,BSCNeuromodEU,BSCEDUCARE,BSCEMEA_Endo,CaseLinkBS,CloseTheGapBSC,SlonePartners]""",Healthcare
+2021,Altice USA,9894.6,306,"""[AlticeUSA,AlticeMediaUSA]""",Technology
+2021,Norfolk Southern,9789,307,"""[nscorp,Norfolkstate,norfolkbroads,NS_Roblox,HorseHeadRR,IMDevelopment]""",Transportation
+2021,Sonic Automotive,9767,308,"""[SonicAutomotive]""",Retailing
+2021,AMD,9763,309,"""[AMD,Radeon,AMDGaming,AMD_UK,AMDRyzen,AMD_AUNZ,ADInstinct,AMDPC,RadeonPRO,AMDServer,XilinxInc,AMDNews,AMDIndia,AMDPhilippines]""",Technology
+2021,United States Steel,9741,310,"""[U_S_Steel]""",Industrials
+2021,Markel,9735.1,311,"""[MarkelStyle,MarkelSmallBiz,Markel_Marine,MarkelLawUK,MarkelIntl,MarkelTaxUK,MarkelUK,MarkelDirect]""",Finance
+2021,ODP,9710,312,"""[officedepot]""",Retailing
+2021,AES,9660,313,"""[TheAESCorp]""",Energy
+2021,Molson Coors,9654,314,"""[MolsonCoors,CoorsLight,CoorsBanquet,CoorsBeer,CoorsIreland,Coorslightca,CoorsOriginalca]""",Food
+2021,J.B. Hunt,9636.6,315,"""[JBHuntDrivers,jbhunt360]""",Transportation
+2021,KKR,9629.7,316,null,Finance
+2021,Hormel Foods,9608.5,317,"""[HormelFoods,HormelFoodsJobs,ladivinecomedia]""",Food
+2021,Public Service Enterprise Group,9603,318,"""[PSEGNews,PSEGdelivers]""",Energy
+2021,Steel Dynamics,9601.5,319,"""[WorldSteelDyn,Dynamicsltd,steel_dynamics]""",Industrials
+2021,Dick's Sporting Goods,9584,320,"""[DICKS,dicksopengolf,DicksDriveIns]""",Retailing
+2021,Mohawk,9552.2,321,"""[mohawkpaper,MohawkFlooring,MohawkCollege,MohawkGroup]""",Household
+2021,Murphy USA,9504.3,322,"""[MurphyUSA]""",Retailing
+2021,Square,9497.6,323,"""[Square,TheGarden,TimesSquareNYC,thompsonsquare,thecentersquare,FedSquare,usv,TheTabChoir,pushsquare,SquareDev,SquareEnix,SquareMeal,SQSupport]""",Finance
+2021,Quest Diagnostics,9437,324,"""[QuestDX,Pack_Health,QuestEmpPopHlth,Care360,personalabs,QuestFluShots]""",Healthcare
+2021,Newell Brands,9385,325,"""[newell_brands,BallCanning,BrandNewellDsgn]""",Household
+2021,Liberty Media,9363,326,"""[Libertyglobal]""",Media
+2021,Huntington Ingalls,9361,327,null,Aerospace and Defence
+2021,Cheniere Energy,9358,328,"""[Cheniere]""",Energy
+2021,SpartanNash,9348.5,329,null,Wholesalers
+2021,Alcoa,9286,330,"""[Alcoa,AlcoaFoundation,AlcoaWheels]""",Industrials
+2021,AGCO,9149.7,331,"""[AGCOcorp,Ont_AGCO,AGCO_Racing,agcogsi,AGCO_Power,agcorecycling]""",Industrials
+2021,Voya Financial,9133,332,"""[Voya,VoyaInvestments,VOYAbeauty,thisisvoya]""",Finance
+2021,NRG Energy,9093,333,"""[nrgenergy,SussexNRGGroup,GrandbridgeNRG,GreenSparkNRG,NRG_EDU,MeridianNRGInc]""",Energy
+2021,Interpublic Group,9061,334,"""[InterpublicIPG,Mediabrands,Timhanlon,Matterkind,OrionWWCanada,kinesso,FuturesSport]""",Media
+2021,Campbell Soup,9050,335,"""[CampbellSoupCo,CampbellCSR,CampbellsChunky,CampbellsSoupUK]""",Food
+2021,Southwest Airlines,9048,336,"""[SouthwestAir,swapapilots,RobloxSWA]""",Transportation
+2021,News,9008,337,"""[newscorp,newscorpaus,NewsCorpCricket,NewsUK,TheSun,thetimes,thesundaytimes,TheTLS,VirginRadioUK,TalkTV,TimesRadio,talkSPORT,thefifthagency]""",Media
+2021,Eversource Energy,8904.4,338,"""[EversourceCorp,UConnEEC,SouthForkWind,SunriseWindNY,RevWind,EversourceCT,EversourceNH,EversourceMA]""",Energy
+2021,Alleghany,8896.7,339,null,Finance
+2021,Air Products & Chemicals,8856.3,340,"""[airproducts]""",Industrials
+2021,Auto-Owners Insurance,8853.2,341,"""[AutoOwnersIns]""",Finance
+2021,CenterPoint Energy,8835,342,"""[CenterPoint,DaytonAirShow]""",Energy
+2021,Reliance Steel & Aluminum,8811.9,343,"""[reliancejio,reliancepower,RelianceCapital,RInfraOfficial,RelianceGroup,RCommCare,RelianceEnt,RelianceDigital,ril_foundation,relnipponlife,RSmartMoney,RelianceGenIn,RelianceCF,reliancetrends,RelianceMobile,Reliancehmo,Relianceprint,RelianceGCS,Reliancebus]""",Industrials
+2021,EMCOR Group,8797.1,344,"""[emcor,SaudiEmcor,ENERGYemcoruk,EmcorServiceCol]""",Industrials
+2021,Owens & Minor,8706.9,345,"""[Owens_Minor]""",Healthcare
+2021,Mosaic,8681.7,346,"""[MosaicCompany,mosaicmag,thewomensmosaic,TheMosaicRooms,MosaicNetwork,Mosaic_VC,MosaicDigitalIN,MosaicRecords,MosaicPlace]""",Industrials
+2021,Erie Insurance Group,8666,347,"""[erie_insurance,Get_Erie_Ins,ei_foosball]""",Finance
+2021,Genworth Financial,8658,348,"""[Genworth,COCGenworth]""",Finance
+2021,Amphenol,8598.9,349,"""[amphenol,AmphenolAIO,AmphenolAAO,AmphenolPCD,AmphenolLtd,AmphenolRF,AmphenolNS,AmphenolSOCAPEX,AmphenolACC,AmphenolCS,ArdentConcepts,AmphenolLTW,AmphenolFSI,AmphenolBB,AmphenolAudioNA,AmphenolUK,AmphenolACP,AmphenolMAO,AmphenolMedical,AmphenolAntenna,AmphenolTuchel]""",Technology
+2021,Builders FirstSource,8558.9,350,"""[BldrFirstSource]""",Industrials
+2021,Oneok,8542.2,351,"""[ONEOK,ONEOKCareers]""",Energy
+2021,United Rentals,8530,352,"""[UnitedRentals,RentalsUnited,URLife,UnitedSiteServ,UnitedRentalsM1,RentalsQatar]""",Industrials
+2021,Brighthouse Financial,8503,353,"""[BrightHouseFin,BCGBrightHouse,BHFCareers,JaxBrighthouse,BrighthouseSA,brighthouse_f]""",Finance
+2021,Regeneron Pharmaceuticals,8497.1,354,"""[Regeneron,RegeneronDNA,RGreatLimRun]""",Healthcare
+2021,Eastman Chemical,8473,355,"""[EastmanChemCo]""",Industrials
+2021,CommScope Holding,8435.9,356,"""[CommScope,CommScopeCareer,CommScopeM]""",Technology
+2021,Ryder System,8420.1,357,"""[Ryder_Systems]""",Transportation
+2021,Fifth Third Bancorp,8402,358,"""[FifthThird,fifththirdarena,FTBStadium,53PrivateBank,MudHens]""",Finance
+2021,Constellation Brands,8343.5,359,"""[cbrands,cbrandscareers]""",Food
+2021,Insight Enterprises,8340.6,360,"""[InsightEnt,InsightUSA,InsightEnterpri,insightENTR]""",Technology
+2021,Global Partners,8321.6,361,"""[FosterPartners,GlobalPeo,CSGlobalPtnrs,PartnerGlobal,GPGovernance,AnalyticGlobal,GlobalPartnersD,MPFGlobal,amplifymission,GPforEducation]""",Wholesalers
+2021,Univar Solutions,8265,362,"""[UnivarSolutions,UnivarSC,AgChemExpert]""",Wholesalers
+2021,Yum China Holdings,8263,363,null,Food
+2021,Targa Resources,8260.3,364,null,Energy
+2021,Intercontinental Exchange,8244,365,"""[ICE_Markets,ICEMortgageTech,ICEHousePodcast]""",Finance
+2021,Andersons,8208.4,366,"""[andersonsinc,AndersonsCanada,AndersonsJobs]""",Food
+2021,Raymond James Financial,8168,367,"""[RaymondJames,RJStadium,RJResearch,RJAdvisorChoice,RJFMarketing,SMFTampa]""",Finance
+2021,Thor,8167.9,368,"""[thor_inc,Thor_Industries]""",Transportation
+2021,Thrivent Financial for Lutherans,8152.7,369,"""[Thrivent]""",Finance
+2021,Hershey,8149.7,370,"""[Hersheys,AskHershey,hersheyCompany,HersheysKisses,HersheysIndia,HersheyCareers,chocolateworld,HersheyEnt]""",Food
+2021,Casey's General Stores,8112.3,371,"""[caseysgenstore]""",Retailing
+2021,W.R. Berkley,8098.9,372,"""[WRBerkleyCorp]""",Finance
+2021,Activision Blizzard,8086,373,"""[Activision,CallofDuty,PlayCODMobile,CrashBandicoot,Sekirothegame,SpyroTheDragon,TonyHawkthegame,ATVI_AB,ActivBlizzMedia,Bungie]""",Technology
+2021,Western & Southern Financial Group,8057.9,374,"""[WesternSouthern,CincyTennis]""",Finance
+2021,American Tower,8041.5,375,"""[AmericanTowerUS,ColoAtl,redITMx,tower_american]""",Finance
+2021,American Financial Group,7909,376,"""[MutualofAmerica,AFMGplanning,CNOFinancial,AFGINC2022]""",Finance
+2021,Darden Restaurants,7806.9,377,"""[darden,DardenMBA]""",Food
+2021,J.M. Smucker,7801,378,"""[smuckers]""",Food
+2021,Williams,7719,379,"""[WilliamsRacing,WilliamsUpdates]""",Energy
+2021,Intuit,7679,380,"""[Intuit,mint,QuickBooks,IntuitDome,QuickBooksUK,IntuitTurbo,IntuitAcctsCA,IntuitAccts,turbotax,TurboTaxCanada,QuickBooksCA,IntuitArtCenter,IntuitIN,IntuitDev,intuitcanada,intuitcircles]""",Technology
+2021,Citizens Financial Group,7676,381,"""[CitizensBank,CFGCommercial,CFG_Newsroom]""",Finance
+2021,PPL,7607,382,"""[PPLElectric]""",Energy
+2021,NVR,7566,383,"""[NVHomes1979]""",Industrials
+2021,Westinghouse Air Brake,7556.1,384,"""[WECNuclear,W_Home]""",Industrials
+2021,Foot Locker,7548,385,"""[footlocker,footlockercad,FootLockerEU,FootLockerWomen,KidsFootLocker]""",Retailing
+2021,Cincinnati Financial,7536.3,386,null,Finance
+2021,Weyerhaeuser,7532,387,"""[Weyerhaeuser,CareersbyWY]""",Industrials
+2021,Westlake Chemical,7504,388,"""[WLKPartners]""",Industrials
+2021,Navistar International,7503,389,"""[navistar,NavistarNews,navistartrucks,NavistarRV,Navistarjobs]""",Industrials
+2021,Magellan Health,7501.5,390,"""[MagellanHealth]""",Healthcare
+2021,Booz Allen Hamilton,7463.8,391,"""[BoozAllen,SpaceApps,BoozDataScience,LifeAtBooz,BoozDigital,BoozAllenCyber]""",Technology
+2021,Autoliv,7447.4,392,"""[AutolivInc,Autoliv_Safety,ItAutoliv]""",Transportation
+2021,S&P Global,7442,393,"""[SPGlobalRatings,SPGlobal,SPGlobalPMI,SPGCIMetals,SPGCI,SPGCICoal,Maersk,SPGCIPetchems,SPGMarketIntel,SPGCILNG,SPDJIndices,SPGSustainable1,SPGCIPower,Trucost]""",Finance
+2021,Global Payments,7423.6,394,"""[GlobalPayInc,GPIntegrated,GoVeem,LTCFoundation,SokinGlobal,Papaya_Global,PPRO_Payments]""",Finance
+2021,Motorola,7414,395,"""[Moto,motorolaindia,MotorolaUS,MotorolaCA,MotoSolutions,motorolaUK,pelcovideo,MotorolaHistory,MSIFoundation,FansMotorola,MotoSolutionsAP,shopmotorola]""",Technology
+2021,KeyCorp,7337,396,"""[keybank,KeycorpGroup,keycorpsports]""",Finance
+2021,Delek US Holdings,7301.8,397,"""[DelekUSHoldings]""",Energy
+2021,Masco,7289,398,null,Household
+2021,Graybar Electric,7265.7,399,"""[Graybar,GraybarCanada,graybaruk]""",Wholesalers
+2021,WEC Energy Group,7241.7,400,"""[WECEnergyGroup]""",Energy
+2021,Old Republic International,7166,401,"""[OldRepTitle]""",Finance
+2021,Frontier Communications,7155,402,"""[FrontierCorp,ZiplyFiber,thisisfsc,FrontierBiz]""",Technology
+2021,Chewy,7146.3,403,"""[Chewy,ChewyHelp,stellaandchewys,LifeAtChewy]""",Retailing
+2021,PVH,7132.6,404,"""[PVHCorp,CalvinKlein,TommyHilfiger,HilfigerMen]""",Apparel
+2021,Asbury,7131.8,405,"""[AsburyAutoGroup]""",Retailing
+2021,Seaboard,7126,406,"""[Seaboard,SeaboardFoods,SeaboardStation,SeaboardWine,SeaboardUSY,SeaboardBrewing]""",Food
+2021,Polaris,7108.3,407,"""[PolarisORV,PolarisProgram,PolarisVC,PolarisSnow,PolarisPrize,PolarisInc,PolarisBankLtd,polarisIndia,polarissports]""",Transportation
+2021,Dana,7106,408,"""[DanaherCorp]""",Transportation
+2021,First American,7086.7,409,"""[FirstAmNews,1AmericanPymnt,FirstAmArt,FirstAmBank,FABTIsHere,FirstAmNCS,firstamerins]""",Finance
+2021,Cintas,7085.1,410,"""[CintasCorp,CintasCenter,cintasfoundatio,cintas_canada]""",Industrials
+2021,Toll Brothers,7077.7,411,"""[tollbrothers]""",Industrials
+2021,Science Applications International,7056,412,"""[SAICinc,UnisysFederal,SAICaiga,SAICjobs,SAIC_Design,Saicmaxus_uk,SAIC_SFS,saic_homansq]""",Technology
+2021,Owens Corning,7055,413,"""[OwensCorning,OCRoofingLLC,OCInsulation,OC_Composites,owenscorningbfs,Make_Impossible]""",Industrials
+2021,Zimmer Biomet Holdings,7024.5,414,"""[zimmerbiomet,ZBRobotics,zimmerbiometIND,ZimmerMedEdANZ]""",Healthcare
+2021,Xerox,7022,415,"""[Xerox,PARCinc,XeroxUK,Altodigital,XeroxSupport,ArenaGroup,ItecUK,ESI_Solutions,XeroxPartners,XeroxProduction,ROATweets]""",Technology
+2021,Arthur J. Gallagher,7003.6,416,"""[GallagherGlobal,AJGPI,Gallagher_P1,ajgcanada,AJGinsurance]""",Finance
+2021,Avery Dennison,6971.5,417,"""[AveryDennison,ADGraphics_NA,ADLabelLeader,AD_Careers,ADSmartrac,ADMedical,AveryDennisonTS,PremierLeague,MLS]""",Industrials
+2021,Sanmina,6960.4,418,"""[SanminaCorp]""",Technology
+2021,Jefferies Financial Group,6955.9,419,"""[Jefferies,Berkadia]""",Finance
+2021,Beacon Roofing Supply,6943.9,420,"""[BeaconBuilds]""",Wholesalers
+2021,Securian Financial Group,6870.4,421,"""[Securian,SecurianTest]""",Finance
+2021,Oshkosh,6856.8,422,"""[OshKoshBgosh,OshkoshCorp,onwnews,OshkoshDefense,CityofOshkosh,visitoshkosh,OshkoshArena,TheGrandOshkosh]""",Industrials
+2021,FM Global,6798,423,"""[FMGlobal]""",Finance
+2021,Booking Holdings,6796,424,"""[BookingHoldings,bookingcom,kayak,priceline,opentable,agoda]""",Technology
+2021,Williams-Sonoma,6783.2,425,"""[WilliamsSonoma,GenevaCommons,WStradecontract,beautifulbriny]""",Retailing
+2021,Coty,6737.9,426,"""[COTYInc]""",Household
+2021,Clorox,6721,427,"""[Clorox,CloroxCo,Cloroxpro,CloroxPool,CloroxFinance]""",Household
+2021,Pioneer Natural Resources,6685,428,"""[PXDtweets,NatResources,SustainableNW]""",Energy
+2021,Dover,6683.8,429,"""[DoverCorp]""",Industrials
+2021,CMS Energy,6680,430,"""[CMSstrategic,CMSConstruction]""",Energy
+2021,Zoetis,6675,431,"""[Zoetis,ZoetisUS,DairyWellness,Zoetis_Ireland,ZoetisBeef,pighealthuk,sheep_farmers,dairy_farmers,ZoetisPigcare,beef_farmers]""",Healthcare
+2021,Hanes,6664.4,432,"""[Hanes,NHM_London,HanesMall,HanesBrands]""",Apparel
+2021,Packaging of America,6658.2,433,"""[packagingcorp,SappiNA,ReverePackaging,TwoSidesNA,CoinsOfAmerica,compostable]""",Industrials
+2021,Regions Financial,6655,434,"""[askRegions,RegionsFS]""",Finance
+2021,Graphic Packaging Holding,6559.9,435,"""[GraphicPkg_Intl,MenashaGreen]""",Industrials
+2021,UGI,6559,436,"""[UGI_Utilities,UGI_at_UCL]""",Energy
+2021,Sprouts Farmers Market,6468.8,437,"""[sproutsfm]""",Food
+2021,Avantor,6393.6,438,"""[VWR,VWR_UK,Avantor_News]""",Technology
+2021,Veritiv,6345.6,439,"""[Veritiv,VeritivPaper,VeritivClean,VeritivPacks,VeritivIR]""",Wholesalers
+2021,Rockwell Automation,6329.8,440,"""[ROKAutomation,ROKcareers,KalypsoROK,ROKAutoEMEA,ROKAutomationIN,ROKAutomationZA,ROKAutomationAU,ROKAutomationNZ,ROKLiveEvent,thejournal_ROK,PlexSystems,ROKAutomationIT,Westbury_CS]""",Industrials
+2021,MasTec,6321,441,"""[CentreDigiMedia,DigitalMasterCh,DigitalMediaTMU]""",Industrials
+2021,DCP Midstream,6302,442,"""[DCPMidstreamLP]""",Energy
+2021,Northern Trust,6301.1,443,"""[NorthernTrust,NHSCTrust,NTWealth,NTInvest,NorthernEdTrust,NorthernDevelop,WesternHSCTrust,NHSNLaG,NCAlliance_NHS,NorthernTrustCo]""",Finance
+2021,M&T Bank,6281.2,444,"""[MandT_Bank]""",Finance
+2021,Realogy Holdings,6221,445,"""[Realogy,RealogyCareers,RealogyFWD]""",Industrials
+2021,NCR,6207,446,"""[NCRonline,NCRCorporation]""",Technology
+2021,T. Rowe Price,6206.7,447,"""[TRowePrice]""",Finance
+2021,Vertex Pharmaceuticals,6205.7,448,"""[VertexPharma,VertexScience]""",Healthcare
+2021,Big Lots,6199.2,449,"""[BigLots]""",Retailing
+2021,Ralph Lauren,6159.8,450,"""[RalphLauren,RLCCC]""",Apparel
+2021,Ulta Beauty,6152,451,"""[ultabeauty,ultabeautyjobs]""",Retailing
+2021,Taylor Morrison Home,6129.3,452,"""[Taylor_Morrison,TM_Careers,PhoenixTM_Homes,HoustonTM_Homes,SouthernCalTM,OrlandoTM_Homes,AustinTM_Homes,SacramentoTM,BayAreaTM_Homes,TampaTM_Homes,RaleighTM_Home,ChicagoTM_Homes,DallasTM_Homes,CharlotteTM_Hom]""",Industrials
+2021,Icahn Enterprises,6123,453,"""[IcahnMountSinai,IcahnInstitute,Levy_Library,IcahnDAC,Icahn_MPH,SinaiEM]""",Finance
+2021,Blackstone Group,6101.9,454,"""[blackstone,BStoneTalent,mrktgresearch,BTGFederal,blackstonesi,thinkequity]""",Finance
+2021,O-I Glass,6091,455,"""[OI_Glass,OIGlass_Craft,BeerLovesGlass]""",Industrials
+2021,Fortune Brands,6090.3,456,"""[fortunebranded,FBHS_News,jumperstweeting,BrandInnovators,speakr,LiFTdm,photoninfotech,AvatarLabs]""",Household
+2021,NOV,6090,457,"""[NOVGlobal]""",Energy
+2021,Ovintiv,6087,458,"""[encana,ovintiv,EventsCentreDC]""",Energy
+2021,Alexion Pharmaceuticals,6069.9,459,"""[AlexionPharma,AlexionPharmaUS,AlexionPartners]""",Healthcare
+2021,Huntsman,6025,460,"""[Huntsman_Corp]""",Industrials
+2021,Equinix,5998.5,461,"""[Equinix,Mainoneservice,EquinixUK,EquinixMENA,equinixmetal]""",Finance
+2021,ABM,5987.6,462,"""[ABM_Industries,ABMJobs]""",Industrials
+2021,Ingredion,5987,463,"""[Ingredion,ingredionus,IngredionEMEA,IngredionAP]""",Food
+2021,Chipotle Mexican Grill,5984.6,464,"""[ChipotleTweets,ChipotleUK,ChipotleJobs]""",Food
+2021,Sinclair Broadcast Group,5943,465,"""[WeAreSinclair,SBGC2C,Circa,natwxdesk,automatters]""",Media
+2021,LPL Financial Holdings,5871.6,466,"""[LPL,LPLResearch,Crown_Financial,GenWealthFA,BairFinancial,washfinancial,FDG_LPL]""",Finance
+2021,Crown Castle International,5840,467,"""[CrownCastle]""",Finance
+2021,KLA,5806.4,468,"""[KLAcorp,KLASresearch]""",Technology
+2021,Ameren,5794,469,"""[AmerenCorp,AmerenMissouri,AmerenIllinois]""",Energy
+2021,KBR,5767,470,"""[KBRPictures,BuildersKbr]""",Industrials
+2021,Burlington Stores,5764,471,"""[Burlington,BurlingtonMag,BurlingtonPost,bfp_news,BTVAirport,cityburlington,BurlcoTimes,BTVCITYARTS]""",Retailing
+2021,Olin,5758,472,null,Industrials
+2021,CACI International,5720,473,"""[CACIIntl,IntelDec,CACI_LocStrat,CACI_iCX,Archon_Secure,CACI_IIG,SAPhotonics]""",Technology
+2021,Post Holdings,5698.7,474,"""[postholdingsinc]""",Food
+2021,Academy Sports and Outdoors,5689.2,475,"""[Academy]""",Retailing
+2021,Arconic,5675,476,"""[arconic,ArconicEHS,abc_create]""",Industrials
+2021,Celanese,5655,477,"""[celanese]""",Industrials
+2021,Yum Brands,5652,478,"""[yumbrands]""",Food
+2021,Fastenal,5647.3,479,"""[FastenalCompany,FastenalCanada,mnworldcup,FastenalSE,fastenal,FastenalMidwest,OvilleFastenal,Fastenal_wstfld,Fastenal_momac,Fastenal_cv,FastenalOEM,FastenalPNW,FastenalPITT]""",Wholesalers
+2021,Nasdaq,5627,480,"""[Nasdaq,NasdaqExchange,NasdaqDubai,NasdaqBTCS,NPM,nasdaqcenter]""",Finance
+2021,Analog Devices,5603.1,481,"""[ADI_News,Trinamic_MC,icrontech]""",Technology
+2021,McCormick,5601.3,482,"""[McCormickCorp,McCormick_Fdn,NorthwesternEng,mccormickspices]""",Food
+2021,Carvana,5586.6,483,"""[Carvana,CarvanaRacing,CarvanaTechJobs]""",Retailing
+2021,Franklin Resources,5566.5,484,"""[MartinCurrieIM,FCFRC,FTI_Global,FTI_US,FTIIndia,FTI_Canada,FTI_emerging,libertyshares]""",Finance
+2021,Electronic Arts,5537,485,"""[EA,EASPORTS,EASPORTSFIFA,EA_DICE,GhostGamesEA,EASPORTSUFC,EAHelp,EAStarWars,EAMaddenNFL,eamusichq,electronicarts,Formula1game,EASPORTSNHL,EAPlay,EAFIFAesports,EAMobile,EA_Australia,EAMaddenMobile,EASPORTSPGATOUR,skateEA,EASPORTSNBA,Inside_EA,EASPORTSNBALM,EASPORTSRally]""",Media
+2021,MDU Resources Group,5532.8,486,"""[MDUResources]""",Energy
+2021,Select Medical Holdings,5531.7,487,"""[SelectM,selectmedicalc3,TheARDMS,topnursejobs,SelectMedGroup,SelectMedStaff,thebestmedjobs,LvhnSelect,AllevantCares,selectmedcenter]""",Healthcare
+2021,Roper,5527.1,488,"""[IndustriesRoper,RoperCenter]""",Technology
+2021,RPM International,5507,489,"""[RPMintl,RustOleum,Stonhard]""",Industrials
+2021,Cerner,5505.8,490,"""[Cerner,CernerUK,CernerCareers,CernerFdn,CernerNordics]""",Healthcare
+2021,Patterson,5490,491,"""[PattersonCos]""",Healthcare
+2021,Commercial Metals,5476.5,492,"""[steelsmithinc,Metl_Span,Metaldome]""",Industrials
+2021,Boise Cascade Holdings L.L.C.,5474.8,493,"""[Boise_Cascade,BoiseBranch]""",Wholesalers
+2021,Hasbro,5465.4,494,"""[Hasbro,HasbroPulse,HasbroWWFan,HasbroGamesUK,Hasbro4Life]""",Household
+2021,A-Mark Precious Metals,5461.1,495,"""[Amark_PMI]""",Industrials
+2021,Camping World Holdings,5446.6,496,"""[CampingWorld,CWStadium,CampingWorldUK,CWKickoff,CampingTrade]""",Retailing
+2021,NetApp,5412,497,"""[NetApp,NetAPPEMEA,NetAppANZ,NetAppAPAC,NetAppME,NetAppPub,NetAppUK,NetAppHCI,NetAppInsight,NetAppCloud,NetAppIndia,NetAppPartners,NetAppIT,NetAppATeam,NetAppGov,LifeAtNetApp,NetAppAssist,cloudcheckr,ArrowECS_NetApp,NetAppWIT,NetAppDoc,NetAppTools,NetAppNKS,spot_by_netapp,NetAppLearning,NetAppCloudData,NetAppG11N,NetAppActiveIQ]""",Technology
+2021,Avis Budget Group,5402,498,"""[Careers_at_ABG,WeLuvTravelMgrs]""",Retailing
+2021,R.R. Donnelley & Sons,5398.8,499,"""[rrdonnelley]""",Media
+2021,Moody's,5371,500,"""[MoodysAnalytics,Moodysinvsvc,MA_CRESolutions,MoodysUSPubFin,MoodysCorp,economics_ma,moodysesg]""",Finance
